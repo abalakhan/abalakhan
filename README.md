@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anastasiia</h1>
-<h3 align="center">Full-stack developer specializing in React, Node.js, and TypeScript.</h3>
+<h1 align="left">Hi 👋, I'm Anastasiia</h1>
+<h3 align="left">Full-stack developer specializing in React, Node.js, and TypeScript.</h3>
 
 <img align="center" src="https://media.tenor.com/Qn3HlK_9qN8AAAAj/yippee-cutecore-omgkawaiiangel-eee.gif" />
 
